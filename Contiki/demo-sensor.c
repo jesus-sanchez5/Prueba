@@ -17,9 +17,9 @@ PROCESS_THREAD(sensor_process, ev, data){
 		PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer));
 		
 		struct Sensor temperatura = read_temperatura();
-		printf("%s: %.2f\n", temperatura.nombre, temperatura.valor);
+		printf("%s: %.2d\n", temperatura.nombre, temperatura.valor);
 		struct Sensor humedad = read_humedad();
-		printf("%s: %.2f\n", humedad.nombre, humedad.valor);
+		printf("%s: %.2d\n", humedad.nombre, humedad.valor);
 		printf("------------\n");
 	}
 	
