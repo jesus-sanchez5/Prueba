@@ -2,7 +2,7 @@ package hola;
 
 
 
-public class hola{ 
+public class prueba{ 
 
     static void iii(){
         int x=0;
