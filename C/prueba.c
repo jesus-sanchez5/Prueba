@@ -8,6 +8,7 @@ printf(" SSSSSSS   CCCCCCC\tAAAAAAAA  NN    NN\nSSS \t  CCC\t\tAA    AA  NNN   N
 printf("\n\n\n");
 printf("IIIIIIII  PPPPPPPP    SSSSSSS   CCCCCCC\tAAAAAAAA  NN    NN\n   II     PP    PP   SSS \t  CCC\t\tAA    AA  NNN   NN\n   II     PPPPPPPP   SSSS  \t  CCC\t\tAA    AA  NN N  NN\n   II     PP\t        SSSS  CCC\t\tAAAAAAAA  NN  N NN\n   II     PP\t         SSS  CCC\t\tAA    AA  NN   NNN\nIIIIIIII  PP\t    SSSSSSS\t   CCCCCCC\tAA    AA  NN    NN\n");
 
+printf ("IIIIIIII  PPPPPPPP    SSSSSSS   CCCCCCC\tAAAAAAAA  NN    NN\n   II     PP    PP   SSS       CCC\tAA    AA  NNN   NN\n   II     PPPPPPPP   SSSS      CCC\tAA    AA  NN N  NN\n   II     PP\t        SSSS   CCC\tAAAAAAAA  NN  N NN\n   II     PP\t         SSS   CCC\tAA    AA  NN   NNN\nIIIIIIII  PP\t    SSSSSSS     CCCCCCC\tAA    AA  NN    NN\n\n\n");
 
 
 }
